@@ -1,0 +1,7 @@
+{
+    "html.format.enable": true,
+    "html.format.templating": true,
+    "html.format.wrapLineLength": 120,
+    "prettier.enable": false,
+    "prettier.printWidth": 120
+}
